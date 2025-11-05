@@ -1,0 +1,2 @@
+# shamil
+static web page
